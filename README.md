@@ -1,2 +1,2 @@
-# Santander---Excel-com-Intelig-ncia-Artificial_DIO
-Este projeto foi desenvolvido durante o curso da DIO com o objetivo de aplicar conhecimentos em Excel
+# Santander-Excel-com-Inteligencia-Artificial_DIO
+Este projeto foi desenvolvido como parte do curso oferecido pela DIO em parceria com o Santander, com o objetivo de aplicar, na prática, os conhecimentos adquiridos sobre Excel e Inteligência Artificial.
